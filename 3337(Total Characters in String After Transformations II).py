@@ -47,3 +47,4 @@ class Solution:
                 result = (result + initial[i] * T_pow[i][j]) % MOD
 
         return result
+        # Copy code in ChatGpt
