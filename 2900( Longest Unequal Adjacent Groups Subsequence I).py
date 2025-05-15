@@ -12,3 +12,4 @@ class Solution:
                 last_group = groups[i]
 
         return result
+        # Best problem
