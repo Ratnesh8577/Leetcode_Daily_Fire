@@ -18,3 +18,5 @@ class Solution(object):
             ans[i]=nums[nums[i]]
         return ans
 
+# Best Method
+
