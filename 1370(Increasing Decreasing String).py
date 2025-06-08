@@ -22,3 +22,5 @@ class Solution:
                     freq[i] -= 1
 
         return ''.join(result)
+
+# Hard question Copy chatgpt
