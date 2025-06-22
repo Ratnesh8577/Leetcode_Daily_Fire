@@ -20,3 +20,4 @@ class Solution(object):
         if result != -1 or tops[0] == bottoms[0]:
             return result
         return check(bottoms[0])
+        #Copy code in chatgpt
