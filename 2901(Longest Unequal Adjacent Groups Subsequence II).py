@@ -28,3 +28,5 @@ class Solution:
             max_index = prev[max_index]
         
         return res[::-1]
+
+# Copy code in chatgpt
